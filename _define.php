@@ -21,7 +21,7 @@ $this->registerModule(
 		'permissions' => 'usage,contentadmin',
 		'type' => 'plugin',
 		'dc_min' => '2.6',
-		'support' => 'http://forum.dotclear.org/viewtopic.php?pid=333000#p333000',
+		'support' => 'http://forum.dotclear.org/viewtopic.php?id=48422',
 		'details' => 'http://plugins.dotaddict.org/dc2/details/referer'
 		)
 );
