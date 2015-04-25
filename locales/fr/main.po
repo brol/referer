@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kozlika <kozlika@free.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Displays your blog referers"
+msgstr "Afficher les sites référents"
+
+msgid "List of new referrals"
+msgstr "Liste des derniers sites référents"
+
+msgid "List biggest referrers"
+msgstr "Liste des plus gros sites référents"
+
+#: _public.php:30
+msgid "Direct entrance"
+msgstr "Entrée directe"
+
+#: _public.php:151
+msgid "visit(s)"
+msgstr "visite(s)"
+
+#: _widgets.php:26
+#: _widgets.php:27
+msgid "Referer: top referers"
+msgstr "Referer : top des sites référents"
+
+#: _widgets.php:26
+#: _widgets.php:27
+msgid "Top referers"
+msgstr "Top des sites référents"
+
+#: _widgets.php:28
+#: _widgets.php:35
+msgid "Number to display:"
+msgstr "Nombre de liens à afficher :"
+
+#: _widgets.php:33
+#: _widgets.php:34
+msgid "Referer: last referers"
+msgstr "Referer : derniers sites référents"
+
+#: _widgets.php:33
+#: _widgets.php:34
+msgid "Last referers"
+msgstr "Derniers sites référents"
+
